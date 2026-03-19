@@ -1,0 +1,38 @@
+{
+  "name": "pib-fcu-automation",
+  "version": "1.0.0",
+  "description": "Enterprise-grade Playwright automation framework for PIB Fact Check Unit chatbot testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:dataset": "playwright test tests/datasetRunner.spec.ts",
+    "test:dataset1": "TEST_DATASETS=dataset1 playwright test tests/datasetRunner.spec.ts",
+    "test:dataset4": "TEST_DATASETS=dataset4 playwright test tests/datasetRunner.spec.ts",
+    "test:dataset9": "TEST_DATASETS=dataset9 playwright test tests/datasetRunner.spec.ts",
+    "test:dataset10": "TEST_DATASETS=dataset10 playwright test tests/datasetRunner.spec.ts",
+    "test:datasets": "playwright test tests/datasetRunner.spec.ts",
+    "test:smoke": "playwright test tests/uiSmoke.spec.ts",
+    "report": "playwright show-report",
+    "clean": "rm -rf reports/* test-results/* playwright-report/*"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "ai-chatbot",
+    "rag",
+    "testing"
+  ],
+  "author": "QA Team",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.0"
+  }
+}

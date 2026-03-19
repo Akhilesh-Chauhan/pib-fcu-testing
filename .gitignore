@@ -1,0 +1,20 @@
+node_modules/
+dist/
+reports/
+test-results/
+playwright-report/
+playwright/.cache/
+.env
+*.log
+.DS_Store
+package-lock.json
+yarn.lock
+
+# Dataset images and CSV files
+datasets/*/images/
+datasets/*/*.csv
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp

@@ -1,0 +1,1460 @@
+[
+  {
+    "image": "Image 1 .png",
+    "expected_query": "University has decided to reopen colleges/departments",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA Fake order attributed to Delhi University claims that University has decided to reopen colleges/departments & offline classes for all PG/UG courses in a pha...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1476445491202166784?s=20",
+    "keywords": [
+      "Delhi University reopening order?",
+      "DU classes January claim",
+      "Delhi University offline classes",
+      "DU reopening fact check"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 2 .jpeg",
+    "expected_query": "nationwide shutdown in India has been announced until December 31",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA viral fake picture on social media is claiming that a nationwide shutdown in India has been announced until December 31!\n\n#PIBFactCheck\n\n▶️ No such announce...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1473924565151539203?s=20",
+    "keywords": [
+      "Nationwide shutdown true",
+      "India lockdown news",
+      "Lockdown announced India",
+      "Shutdown till December",
+      "Is lockdown real",
+      "Government lockdown update"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 3 .jpg",
+    "expected_query": "Bharat Gas Agency dealership",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA letter is claiming to offer a dealership for Bharat Gas Agency and is demanding ₹12,500 as a registration fee.\n\n#PIBFactCheck\n \n➡️The claim made in this let...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1473553367708307461?s=20",
+    "keywords": [
+      "Bharat Gas dealership letter",
+      "Gas agency offer real?",
+      "Bharat Gas registration fee",
+      "Gas dealership scam",
+      "BPCL dealership verification",
+      "LPG agency letter"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 4.png",
+    "expected_query": "rashtriya unnati kendra website",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA Fake website 'http://rashtriyaunnatikendra.org' is claiming to be associated with the 'Ministry of Skill Development' and is asking for ₹1645 as an applicat...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1472452862571474947?s=20",
+    "keywords": [
+      "Skill Ministry recruitment?",
+      "Government job website fake?",
+      "Rashtriya Unnati Kendra",
+      "Skill Development job scam",
+      "Govt project recruitment"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 5 .png",
+    "expected_query": "UGC offline exam notice",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA public notice regarding offline examinations in universities is circulating on social media & claims to be issued by \nUGC india\n\n\n#PIBFactCheck:\n\n➡️This pub...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1470000455262490624?s=20",
+    "keywords": [
+      "UGC offline exam notice",
+      "UGC exam circular real?",
+      "University offline exams",
+      "UGC notice verification",
+      "Exam notice fake?",
+      "UGC announcement check"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 6 .png",
+    "expected_query": "PM Aadhaar loan Scheme",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nAre you also receiving messages claiming that loans are being provided through Aadhaar cards under the PM scheme?\n\n#PIBFactCheck\n\n▶️ This message is fake.\n\n▶️...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1509459342516711429?s=20",
+    "keywords": [
+      "Aadhaar loan scheme",
+      "PM loan Aadhaar?",
+      "Aadhaar loan message",
+      "Government loan scam",
+      "PM scheme loan",
+      "Aadhaar fraud message"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 7 .png",
+    "expected_query": "Vaccination recharge offer",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: In celebration of record vaccination in the country, the Government of India is providing a free 3-month recharge to all Indian users\n\n#PIBFactCheck\n\n☑...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1469247710662328321?s=20",
+    "keywords": [
+      "Free mobile recharge",
+      "Vaccination recharge offer",
+      "Government free recharge",
+      "month recharge scheme",
+      "Mobile recharge scam",
+      "GoI recharge announcement"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 8.png",
+    "expected_query": "PM Ramban Suraksha Yojana",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA Fake website is claiming that under the PM Ramban Suraksha Yojana, citizens are entitled to a financial aid of Rs 4000 for treatment of COVID19.\n\n#PIBFactCh...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1467773584063959040?s=20",
+    "keywords": [
+      "PM Ramban Suraksha",
+      "COVID treatment aid",
+      "₹4000 COVID scheme",
+      "Government health scheme",
+      "COVID financial aid",
+      "Fake PM scheme"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 9 .png",
+    "expected_query": "Pradhan Mantri Nari Shakti Yojana",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA YouTube video is claiming that the central government is providing all women with a cash amount of 2 lakh 20 thousand rupees under the 'Pradhan Mantri Nari ...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1460955110092144644?s=20",
+    "keywords": [
+      "Nari Shakti Yojana",
+      "Government cash scheme",
+      "Women loan scheme",
+      "PM women scheme"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 10 .png",
+    "expected_query": "Lottery winning call",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nFraudsters are making this fake claim via phone calls, emails, and messages that the recipient has won a lottery of ₹25,00,000.\n\n#PIBFactCheck\n\n▶️Stay cautiou...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1464127364036657157?s=20",
+    "keywords": [
+      "Lottery winning call",
+      "₹25 lakh lottery",
+      "Lottery scam message",
+      "Prize money call",
+      "Fake lottery claim",
+      "Lottery fraud alert"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 11 .png",
+    "expected_query": "Indian Skill Development Organization recruitment",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nAn organisation \"Indian Skill Development Organization\" is inviting applications for various posts \n\n#PIBFactCheck: \n\n▶️This organisation is NOT related to an...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1460492797002219520?s=20",
+    "keywords": [
+      "Indian Skill Development",
+      "MSDE recruitment real?",
+      "Skill job offer",
+      "Training scheme verification",
+      "Fake skill organisation",
+      "Government skill jobs"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 12.png",
+    "expected_query": "RBI ATM message",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA post falsely attributed to RBI claims that pressing 'cancel' twice on ATM before a transaction can prevent PIN theft\n\n#PIBFactCheck\n\nThe statement is FAKE a...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1402966573229346821?s=20",
+    "keywords": [
+      "RBI ATM message",
+      "ATM PIN safety",
+      "Cancel button fraud",
+      "ATM security claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 13.png",
+    "expected_query": "Ajit Doval fake twitter account",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nSeveral Fake accounts are claiming to be the twitter profile of the National Security Advisor (NSA) Ajit Doval. \n\n#PIBFactCheck: \n\n◾ NSA Ajit Doval has NO off...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1458267188410814470?s=20",
+    "keywords": [
+      "Ajit Doval Twitter",
+      "NSA Ajit Doval account",
+      "Ajit Doval fake",
+      "NSA Twitter profile",
+      "Government official Twitter",
+      "Fake verified account"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 14 .png",
+    "expected_query": "age relaxation for the 2022 army recruitment",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA picture claims that the Government of India has given a 2-year age relaxation for the 2022 army recruitment.\n\n#PIBFactCheck\n \n➡️ This claim is fake. \n\n➡️ No...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1455854167226871815?s=20",
+    "keywords": [
+      "Army age relaxation",
+      "Army recruitment age",
+      "year age relief",
+      "Army notice real?",
+      "Government army update",
+      "Army recruitment claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 15 .png",
+    "expected_query": "PM free laptop scheme",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA fake WhatsApp message is claiming that free laptops are being distributed to everyone under the Prime Minister's Free Laptop Distribution Scheme.\n\n#PIBFactC...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1457602510248546305?s=20",
+    "keywords": [
+      "Free laptop scheme",
+      "PM free laptop",
+      "Laptop distribution message",
+      "Government laptop offer",
+      "Laptop scheme fake",
+      "WhatsApp laptop scam"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 16 .png",
+    "expected_query": "COVID feedback agency",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nAn order purportedly issued by Ministry of Health and Family Welfare claims that 'SBTA Business Junction Pvt Ltd' has been authorised to ensure feedback of CO...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1452975273008271363?s=20",
+    "keywords": [
+      "Health Ministry order",
+      "COVID feedback agency",
+      "SBTA Business Junction",
+      "Vaccination feedback claim",
+      "MoHFW notification real?",
+      "COVID survey authorisation"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 17.png",
+    "expected_query": "Train services suspended and lockdown imposed",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim:  Due to the increasing number of covid infected people, a nationwide lockdown will be imposed from tomorrow morning, and all train services in the coun...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1447473818864218120?s=20",
+    "keywords": [
+      "Train services suspended",
+      "COVID lockdown news",
+      "Railway suspension claim",
+      "Government lockdown update",
+      "Lockdown till Diwali"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 18 .png",
+    "expected_query": "RBI fund release",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA 'certificate of deposit' purportedly issued by the Reserve Bank of India is asking for a deposit of Rs 19,900 in lieu of releasing the beneficiary's fund fr...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1445725889711411208?s=20",
+    "keywords": [
+      "RBI certificate deposit",
+      "RBI fund release",
+      "₹19,900 RBI claim",
+      "Certificate of deposit",
+      "RBI payment demand",
+      "RBI fraud message"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 19.png",
+    "expected_query": "UPSC fake socal media handle",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA Twitter account \"UpscIndia33\" claims to be the official Twitter handle of the Union Public Service Commission (UPSC).\n\n#PIBFactCheck\n\n▶️This account is Fake...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1443476716899299333?s=20",
+    "keywords": [
+      "UPSC fake account",
+      "UPSC Twitter fake handle",
+      "UPSC social media account",
+      "UPSC handle verification"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 20 .jpg",
+    "expected_query": "Harmful Chienese decorative lights",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA fake message being circulated in the name of the Home Ministry claims that China is sending a special type of firecrackers and decorative lights to India th...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1443142416769314816?s=20",
+    "keywords": [
+      "Home Ministry warning",
+      "China firecrackers rumour",
+      "Harmful decorative lights",
+      "Asthma firecracker claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 21.png",
+    "expected_query": "Is the Government of India distributing free masks under a scheme called “PM Mask Yojana” during the...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim : Amidst Corona Outbreak, a social media message claims free masks are being distributed by Government under 'PM Mask Yojana'. A link is provided for pl...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1256218513615839239?s=20",
+    "keywords": [
+      "PM Mask Yojana",
+      "Free masks distribution",
+      "Corona Outbreak / COVID-19",
+      "Government scheme claim",
+      "Fraudulent link",
+      "Fake government website"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 22.png",
+    "expected_query": "Is the Government of India providing a ₹4,000 scholarship for English medium students to study digit...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: A WhatsApp message claims that Government is providing ₹4000/- as scholarship for english medium students to study at home digitally. A link has been p...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1256218090049802240?s=20",
+    "keywords": [
+      "₹4000 scholarship claim",
+      "English medium students",
+      "Digital / online education",
+      "Study at home",
+      "Government scholarship scheme",
+      "Central Government scheme"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 23.png",
+    "expected_query": "Has the Central Government shifted all service matters of employees of Jammu & Kashmir and Ladakh to...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: News portal Greater Kashmir claims Center has shifted service matters of employees of J&K and Ladakh to Chandigarh CAT\n\n#PIBFactcheck: CAT bench will c...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1256167502704283648?s=20",
+    "keywords": [
+      "Greater Kashmir news claim",
+      "Service matters of employees",
+      "Jammu & Kashmir",
+      "Ladakh",
+      "Chandigarh CAT Bench",
+      "Central Administrative Tribunal"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 24.png",
+    "expected_query": "Did COVID-19 spread to 300 people in the Transport Nagar area of Jaipur due to a chillum used by a s...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: News portal News Jharkhand has claimed that COVID-19 spread to 300 people in the Transport Nagar area of Jaipur due to a chillum used by a sadhu.\n\n#PIB...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1255108802094882823?s=20",
+    "keywords": [
+      "News Jharkhand claim",
+      "COVID-19 spread",
+      "people infected",
+      "Sadhu chillum incident",
+      "Transport Nagar Jaipur",
+      "District Collector Jaipur clarification"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 25.jpg",
+    "expected_query": "Has the Ministry advised Chief Secretaries of States/UTs to instruct employers not to terminate empl...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: A circular is doing rounds on social media projecting to be from Ministry of Labour and Employment\n\n#PIBFactCheck: Found True! The Ministry has request...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1255108112337367042?s=20",
+    "keywords": [
+      "Labour Ministry circular",
+      "Ministry of Labour and Employment advisory",
+      "COVID-19 employee protection",
+      "No termination during COVID-19",
+      "No wage reduction advisory",
+      "Employers advisory"
+    ],
+    "verdict": "true"
+  },
+  {
+    "image": "Image 26.png",
+    "expected_query": "Has the Central Government proposed cuts in employee facilities such as LTC, Leave Encashment, OTA, ...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: Hindustan Times newspaper has reported that in view of Covid19, central government employees will have to face cuts in facilities such as LTC/Leave Enc...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1254721963945111552?s=20",
+    "keywords": [
+      "Hindustan Times report",
+      "Central Government employees",
+      "COVID-19 allowance cuts claim",
+      "LTC (Leave Travel Concession)",
+      "Leave Encashment",
+      "OTA (Overtime Allowance)"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 27.png",
+    "expected_query": "Has ICMR allowed or invited vendors offering cheaper test kits than the prescribed price range?",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: A Facebook post claims that Coronavirus test kits were purchased at inflated prices by ICMR  \n\n#PIBFactcheck: The price for test kits (RT-PCR) has been...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1254714069283508226?s=20",
+    "keywords": [
+      "Facebook post claim",
+      "Coronavirus test kits",
+      "Inflated prices allegation",
+      "ICMR procurement",
+      "RT-PCR test kit price (₹740–₹1150)",
+      "Rapid test kit price (₹528–₹795)"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 28.png",
+    "expected_query": "Is the Government of India planning to bring an Act requiring all taxpayers to deposit 18% of their ...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: WhatsApp forward claims Government is going to bring in Act to have 18% income deposited by all tax payers \n\n#PIBFactCheck: No such move being discusse...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1254336404265435136?s=20",
+    "keywords": [
+      "WhatsApp forward claim",
+      "% income deposit",
+      "New government Act claim",
+      "Taxpayers misinformation",
+      "Government clarification",
+      "No such proposal"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 29.png",
+    "expected_query": "Is the Central Government planning to reduce the retirement age of Central Government employees to 5...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: A web news portal claims Centre is likely to reduce retirement age of Central Government employees to 50 In Coronavirus Crisis\n\n#PIBFactCheck: The clai...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1254266971777953793?s=20",
+    "keywords": [
+      "Retirement age reduction claim",
+      "Central Government employees",
+      "Retirement at 50 years",
+      "COVID-19 crisis misinformation",
+      "Centre planning discussion denial",
+      "False web news report"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 30.png",
+    "expected_query": "Is ₹1,000 financial assistance being provided to everyone under a Corona assistance scheme?",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: Assistance of ₹1000 is being provided to everyone by the WCHO under the Corona assistance scheme. Fill out the form and receive ₹1000.  \n\n#PIBFactCheck...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1253954246271070208?s=20",
+    "keywords": [
+      "₹1000 Corona assistance claim",
+      "WCHO scheme message",
+      "Fake financial assistance",
+      "Central Government scheme denial",
+      "Fraudulent application link",
+      "Online scam alert"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 31.png",
+    "expected_query": "is it true that the Government has launched a beta version of a soon-to-be-launched video conferenci...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: Firstpost, a web news portal, has reported that Government has launched a beta version of a soon to be launched video conferencing app \n\n#PIBFactCheck:...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1252603481136877568?s=20",
+    "keywords": [
+      "Firstpost",
+      "web news portal",
+      "Government of India",
+      "video conferencing app",
+      "beta version",
+      "app launch claim"
+    ],
+    "verdict": "true"
+  },
+  {
+    "image": "Image 32.png",
+    "expected_query": "Is it true that children in Jehanabad, Bihar are eating frogs because there is no food in their home...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: Scroll -a prominent media portal has claimed children in Jehanabad, Bihar are eating frogs as they have no food at home. The video has since gone viral...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1252169585832255488?s=20",
+    "keywords": [
+      "Scroll",
+      "Jehanabad",
+      "Bihar",
+      "viral video",
+      "children eating frogs",
+      "hunger claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 33.png",
+    "expected_query": "Is it true that the Government is going to drop money from helicopters in every town?",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: Government is going to drop money from helicopters in every town\n\n#PIBFactCheck: Government is going to do no such thing\n\n🔎 Check the fact check here: ...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1250693854975520768?s=20",
+    "keywords": [
+      "Government of India",
+      "helicopter money claim",
+      "money drop from helicopters",
+      "cash distribution rumour",
+      "viral social media claim",
+      "public announcement"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 34.png",
+    "expected_query": "“Is it true that NASA has assessed that a severe earthquake is going to strike Delhi?",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim: According to NASA's assessment, a severe earthquake is going to strike Delhi.\n\n#PIBFactCheck: The viral video is a reality analysis conducted by a news...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1249003101962391555?s=20",
+    "keywords": [
+      "NASA",
+      "Delhi earthquake",
+      "earthquake prediction claim",
+      "viral video",
+      "seismic warning rumour",
+      "news channel analysis"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 35.png",
+    "expected_query": "check the facts about the Hydroxychloroquine (HCQ) stocks have run out in Mumbai?",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nClaim : A prominent newsportal has claimed HCQ or Hydroxychloroquine stocks in Mumbai have run out\n\n#PIBFactCheck:\n\nFact: Ministry of Health & Family Welfare ...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1248617643092758529?s=20",
+    "keywords": [
+      "Hydroxychloroquine",
+      "HCQ tablets",
+      "Mumbai",
+      "Maharashtra",
+      "medicine shortage claim",
+      "stock availability"
+    ],
+    "verdict": "true"
+  },
+  {
+    "image": "Image 36.png",
+    "expected_query": "Is it circulating that the Government plans to reduce employees’ pensions by 30% and terminate pensi...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nMedia reports & rumours  circulating on social media claiming that the Govt may reduce employees' pension by 30% & terminate it for those above the age of 80,...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1248277170801094656?s=20",
+    "keywords": [
+      "employees’ pension",
+      "pension reduction claim",
+      "percent pension cut",
+      "pension termination rumour",
+      "senior citizens pension",
+      "age above 80"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 37.png",
+    "expected_query": "Has the Government announced any such decision regarding inoculation registration on the CowinApp ?",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA WhatsApp message claims that the inoculation registration on the CowinApp will open in February for citizens aged above 50.\n\n#PIBFactCheck: This claim is Fa...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1362276663912853506?s=20",
+    "keywords": [
+      "WhatsApp message",
+      "CoWIN app",
+      "vaccination registration",
+      "February registration claim",
+      "citizens above 50 years",
+      "COVID-19 vaccination"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 38.png",
+    "expected_query": "Is it true that a text message claims monthly monetary compensation is being provided under a govern...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA text message is being circulated with a claim that monthly monetary compensations are being provided under government approved \"AYUSH Yojana\"  \n\n#PIBFactChe...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1362261691010977794?s=20",
+    "keywords": [
+      "text message claim",
+      "AYUSH Yojana",
+      "monthly monetary compensation",
+      "government approved scheme",
+      "Ministry of AYUSH",
+      "financial benefit claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 39.png",
+    "expected_query": "Is it true that Indian Oil Corporation Ltd. has been sold to a private entity?",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nIt is being claimed on social media that Indian Oil Corporation Ltd. has been sold to a private entity.\n\n#PIBFactCheck: This claim is #Fake. The image exhibit...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1361987382510198784?s=20",
+    "keywords": [
+      "Indian Oil Corporation Ltd",
+      "IOC privatization claim",
+      "sale to private entity rumour",
+      "social media claim",
+      "viral image",
+      "IndianOil–Adani Gas Pvt. Ltd."
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 40.png",
+    "expected_query": "Is it true that a  West Bengal Legislative Assembly elections have been announced by the Election Co...",
+    "expected_response": "Thanks for asking! Here's what I found: \n\nA document is doing rounds on social media claiming that the dates for 2021 WestBengal Legislative Assembly elections have been declared by the Election Commi...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1361643492175458304?s=20",
+    "keywords": [
+      "West Bengal Legislative Assembly elections 2021",
+      "election dates announcement",
+      "Election Commission of India",
+      "social media document",
+      "viral election schedule",
+      "premature election claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 41.png",
+    "expected_query": "Pakistan had destroyed the Udhampur Air Base",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\n🚨Udhampur Air Base remains operational✅\n\nA video aired by 'AIK News' on live TV ...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921111414258676156?s=20",
+    "keywords": [
+      "AIK News",
+      "Pakistan destroyed",
+      "Udhampur Air Base",
+      "Hanumangarh chemical factory fire",
+      "Rajasthan",
+      "old unrelated video"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 42.png",
+    "expected_query": "IAF plane crash is being falsely shared in the context of the current India-Pakistan situation.",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\n🚨 Old IAF Plane Crash Video Shared in False Context ❌\n\nA video of an IAF plane c...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921126338116702680?s=20",
+    "keywords": [
+      "Old Video",
+      "IAF Plane Crash",
+      "False Context",
+      "India-Pakistan situation.",
+      "Jaguar aircraft",
+      "Ambala"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 43.png",
+    "expected_query": "Doctored video showing EAM Dr. S Jaishankar apologizing.",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\n🚨 Fake AI Video Alert ⚠️\n\nA doctored video showing EAM Dr. S Jaishankar apologiz...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921142590147060019?s=20",
+    "keywords": [
+      "doctored video",
+      "EAM Dr. S Jaishankar",
+      "apologizing",
+      "AI-generated",
+      "false propaganda"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 44.jpg",
+    "expected_query": "Indian female Air Force pilot captured",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nViral claim about Indian female Air Force pilot captured by Pakistan🚨\n\n#PIBFactC...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921168918397305181?s=20",
+    "keywords": [
+      "Viral claim",
+      "Indian female Air Force pilot",
+      "captured by Pakistan",
+      "FAKE NEWS",
+      "June 2023",
+      "OLD image"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 45.jpg",
+    "expected_query": "Fake account of  Wg. Cdr. Vyomika Singh & Col. Sofiya Qureshi on X.",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nFake Account Alert🚨\n\nAre Wg. Cdr. Vyomika Singh & Col. Sofiya Qureshi on X❓\n\n#PI...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921173153251815811?s=20",
+    "keywords": [
+      "Fake Account Alert",
+      "Wg. Cdr. Vyomika Singh & Col. Sofiya Qureshi",
+      "Both handles are fake",
+      "NO official X handle of Wg. Cdr. Vyomika Singh & Col. Sofiya Qureshi"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 46.jpg",
+    "expected_query": "MoD giving instructions for civil preparedness in view of the India-Pakistan situation",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nFake message shared with verified link of MoD WhatsApp Channel\n\nA message is cir...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921182144472166443?s=20",
+    "keywords": [
+      "Fake message",
+      "verified link of MoD WhatsApp Channel",
+      "Ministry of Defence",
+      "giving instructions for civil preparedness",
+      "India-Pakistan situation",
+      "Government of India"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 47.jpg",
+    "expected_query": "Digital combat clips are being misrepresented as real footage",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nSeveral digital combat clips are being misrepresented as real footage! Stay vigi...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921184226944123189?s=20",
+    "keywords": [
+      "Digital combat clips",
+      "misrepresented",
+      "real footage"
+    ],
+    "verdict": "true"
+  },
+  {
+    "image": "Image 48.jpg",
+    "expected_query": "Another video game scene deceptively presented as actual combat!",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nAnother video game scene deceptively presented as actual combat!\n\n🔎 Check the fa...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921184224263942315?s=20",
+    "keywords": [
+      "video game scene",
+      "deceptively presented",
+      "actual combat"
+    ],
+    "verdict": "true"
+  },
+  {
+    "image": "Image 49.jpg",
+    "expected_query": "Combat gaming videos deceptively circulated as real footages",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nCombat gaming footages flood social media‼️\n\nSeveral combat gaming videos are be...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921184221827092665?s=20",
+    "keywords": [
+      "Combat gaming videos",
+      "deceptively circulated",
+      "real footages",
+      "India-Pakistan conflict"
+    ],
+    "verdict": "true"
+  },
+  {
+    "image": "Image 50.jpg",
+    "expected_query": "Drones have been spotted in certain areas of J&K",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nSocial media posts claims that drones have been spotted in certain areas of Jamm...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921614535552569409?s=20",
+    "keywords": [
+      "Social media posts",
+      "drones",
+      "Jammu & Kashmir."
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 51.jpg",
+    "expected_query": "Heavy explosions in Udhampur",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nClaims of heavy explosions in Udhampur are circulating on social media.\n\n#PIBFac...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921615685576171947?s=20",
+    "keywords": [
+      "Heavy explosions",
+      "Udhampur",
+      "PIBFactCheck",
+      "No explosions in Udhampur"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 52.jpg",
+    "expected_query": "Indian channels have admitted to destruction of Indian airbases",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nPakistani military in its briefing has shown a video clip aired on India TV News...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921820766519075271?s=20",
+    "keywords": [
+      "Pakistani military",
+      "video clip",
+      "India TV News Channel",
+      "Indian channels",
+      "destruction of Indian airbases."
+    ],
+    "verdict": "true"
+  },
+  {
+    "image": "Image 53.jpg",
+    "expected_query": "Artillery exchange along the LOC",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\n🚨Artillery exchange along the LOC❓\n\n#PIBFactCheck \n\n▶️These claims are FALSE.\n\n▶...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921824400527012211?s=20",
+    "keywords": [
+      "Artillery exchange",
+      "along LOC",
+      "FALSE",
+      "Rumours"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 54.jpg",
+    "expected_query": "Indian female pilot is in Pakistan's custody",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\n🚨Fake news peddled by Al Jazeera!\n\nAl Jazeera runs FALSE claim that Indian femal...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1921853334182384058?s=20",
+    "keywords": [
+      "Al Jazeera",
+      "FALSE claim",
+      "Indian female pilot",
+      "Pakistan's custody",
+      "PIBFactCheck",
+      "DG ISPR, Pakistan"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 55.jpg",
+    "expected_query": "Old news story shared with a false context, linking it to the recent terrorist attack in Pahalgam, J...",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nAn old news story is being shared on social media in a false context, linking it...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1916050445610438681?s=20",
+    "keywords": [
+      "Old news story",
+      "social media",
+      "false context",
+      "terrorist attack",
+      "Pahalgam",
+      "Jammu and Kashmir"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 56.png",
+    "expected_query": "Pakistan Army destroyed two Indian Army posts using mortars & gunfire along LoC.",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nIn a post, it is falsely claimed that the Pakistan Army has destroyed two Indian...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1916423859374276748?s=20",
+    "keywords": [
+      "Pakistan Army",
+      "destroyed",
+      "two Indian Army posts",
+      "mortars and gunfire",
+      "along LoC",
+      "heavy casualties."
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 57.png",
+    "expected_query": "An old video, along with false claims about the Indian Army, is being widely shared by Pakistan-base...",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\n⚠️ Beware!  \n\nAn old video, along with false claims about the Indian Army, is be...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1916459277004464420?s=20",
+    "keywords": [
+      "Old video",
+      "Indian Army",
+      "Pakistan-based accounts",
+      "social media platforms",
+      "old Press Conference",
+      "th March 2025."
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 58.png",
+    "expected_query": "Confidential documents related to the preparedness of the Indian Army have been leaked.",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nPro-Pakistan social media accounts are falsely claiming that confidential docume...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1916835576197841000?s=20",
+    "keywords": [
+      "Pro-Pakistan",
+      "social media accounts",
+      "confidential documents",
+      "preparedness",
+      "Indian Army",
+      "leaked"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 59.png",
+    "expected_query": "Pakistan has shot down an Indian Rafale fighter jet along the LoC in the Poonch sector of Kashmir.",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nSeveral pro-Pakistan social media accounts are falsely claiming that Pakistan ha...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1917164793557094763?s=20",
+    "keywords": [
+      "Several pro-Pakistan",
+      "social media accounts",
+      "Pakistan",
+      "shot down",
+      "Indian Rafale",
+      "fighter jet"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 60.png",
+    "expected_query": "National Backward Classes Finance & Development Mission (NBCFDM) claims to be recruiting for various...",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nNational Backward Classes Finance & Development Mission (NBCFDM) claims to be re...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1902307422355780029?s=20",
+    "keywords": [
+      "National Backward Classes Finance & Development Mission",
+      "NBCFDM",
+      "NBCFDM",
+      "Ministry of Social Justice & Empowerment",
+      "recruiting pan-India",
+      "https://nbcfdm.com"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 61.png",
+    "expected_query": "Advertisement Claims Employment Opportunities Under the Ministry of Labour and Employment",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nAn advertisement circulating on Instagram claims to offer employment opportuniti...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1895774003408884087?s=20",
+    "keywords": [
+      "Labour Ministry recruitment",
+      "Instagram job advertisement",
+      "Government employment claim",
+      "Ministry of Labour jobs",
+      "Online recruitment post",
+      "Central government vacancy"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 62.png",
+    "expected_query": "Website Claims Tractor Subsidies Under ‘Kisan Tractor Yojana’ Linked to the Ministry of Agriculture ...",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nA website falsely claims to offer tractor subsidies under '𝑲𝒊𝒔𝒂𝒏 𝑻𝒓𝒂𝒄𝒕𝒐𝒓 𝒀𝒐𝒋𝒂𝒏𝒂'...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1897164284431593891?s=20",
+    "keywords": [
+      "Kisan Tractor Yojana",
+      "Tractor subsidy scheme",
+      "Agriculture subsidy website",
+      "Farmers welfare scheme claim",
+      "Online tractor subsidy form",
+      "Agriculture ministry scheme"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 63.png",
+    "expected_query": "SMS Claims India Post Requires Address Update Within 12 Hours to Prevent Parcel Return",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nDid you receive an SMS with a link urging you to update your delivery address wi...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1897223719552205126?s=20",
+    "keywords": [
+      "India Post delivery SMS",
+      "Address update link message",
+      "Parcel return alert",
+      "Postal tracking notification",
+      "Delivery address verification",
+      "SMS parcel scam"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 64.png",
+    "expected_query": "Video Shows Donald Trump Allegedly Making Remarks About the Donyi Polo Community of Arunachal Prades...",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nAn AI-edited video, circulating on social media, falsely depicts US President Do...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1897523706941071449?s=20",
+    "keywords": [
+      "Donald Trump video",
+      "Donyi Polo community",
+      "Arunachal Pradesh reference",
+      "AI-edited political video",
+      "US President statement claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 65.png",
+    "expected_query": "Email Claims Court Order Issued Against User’s Internet Traffic",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nReceived an e-mail informing you of a court order against your internet traffic❓...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1897962606692122855?s=20",
+    "keywords": [
+      "Court order email",
+      "Internet traffic notice",
+      "Legal action warning email",
+      "Cybercrime portal India",
+      "Phishing court notice",
+      "Suspicious legal email"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 66.png",
+    "expected_query": "Social Media Posts Claim Union Government Set April 27, 2026 as Final Deadline to Apply for Birth Ce...",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nIt is being claimed in social media posts that Union Government has declared Apr...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1898362833672274029?s=20",
+    "keywords": [
+      "Birth certificate deadline",
+      "April 27 2026 application",
+      "Union Government notification",
+      "Civil registration India",
+      "Birth certificate rules",
+      "Government deadline claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 67.png",
+    "expected_query": "Websites Claim Recruitment Under “National Backward Classes Finance & Development Mission” Linked to...",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nNational Backward Classes Finance & Development Mission (NBCFDM) claims to be re...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1899422558199611779?s=20",
+    "keywords": [
+      "NBCFDM recruitment",
+      "Backward Classes Finance Mission",
+      "District Project Officer vacancy",
+      "Ministry of Social Justice jobs",
+      "Online government job application",
+      "nbcfdm website claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 68.png",
+    "expected_query": "Approval Letter Claims ₹5,00,000 Loan Under Pradhan Mantri Mudra Yojana on Payment of ₹2,100",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nA #Fake approval letter claims to grant a loan of ₹5,00,000 under PM Mudra Yojan...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1899793885670564198?s=20",
+    "keywords": [
+      "PM Mudra Yojana loan",
+      "₹500000 loan approval",
+      "₹2100 processing fee",
+      "Mudra refinancing agency",
+      "Micro enterprise loan scheme",
+      "Government loan letter"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 69.png",
+    "expected_query": "Message Claims Loans at 2% Annual Interest Are Being Offered Under a PM Scheme Using Aadhaar",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nA fake message is claiming that loans are being provided under the PM scheme at ...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1900480661175107887?s=20",
+    "keywords": [
+      "PM scheme loan offer",
+      "percent interest loan",
+      "Aadhaar based loan",
+      "Government loan message",
+      "Low interest scheme claim",
+      "Online loan notification"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 70.png",
+    "expected_query": "Posts Claim Government of India Plans to Increase Retirement Age of Central Government Employees by ...",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nViral news on social media is claiming that the Government of India has decided ...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1901203692981772757?s=20",
+    "keywords": [
+      "Central government retirement age",
+      "Retirement age increase India",
+      "Government employee service rules",
+      "Public sector retirement policy",
+      "Viral retirement news",
+      "Government decision claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 71.png",
+    "expected_query": "Website Claims to Be a Government-Recognized Body Conferring National Awards Such as Bharat Ratna an...",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nA fake website, 'https://brs.inc,' alleges to be a semi-structured govt. organiz...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1901969763947180063?s=20",
+    "keywords": [
+      "brs.inc website",
+      "Bharat Ratna Samman",
+      "Padma Bhushan Samman",
+      "Padma Vibhushan Samman",
+      "National awards India",
+      "Nominee charges website"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 72.png",
+    "expected_query": "China is sending special firecrackers and decorative lights to spread asthma and eye-related disorde...",
+    "expected_response": "Thanks for checking! Here’s what I found:\n\nA viral WhatsApp message, allegedly in the name of an officer from the Ministry of Home Affairs, claims that China is sending special firecrackers and decora...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1323547735539134465?s=20",
+    "keywords": [
+      "WhatsApp viral message China firecrackers",
+      "MHA officer asthma claim",
+      "Decorative lights health rumour",
+      "Fake Home Ministry advisory",
+      "China spreading disease claim"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 73.png",
+    "expected_query": "PM Loan Yojana",
+    "expected_response": "Thanks for checking! Here’s what I found:\n\nSeveral smartphone apps operating under the name “PM Loan Yojana” claim to be run by the Government and seek monetary payment for providing services\n\n#PIBFac...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1326795118062542848?s=20",
+    "keywords": [
+      "PM Loan Yojana app",
+      "Fake government loan app",
+      "Fraud loan scheme India",
+      "PM loan payment scam",
+      "Government loan website fake",
+      "PIBFactCheck financial fraud"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 74.png",
+    "expected_query": "Government of India is providing ₹10,000 to every family under ‘PM Funds’",
+    "expected_response": "Thanks for checking! Here’s what I found:\n\nA viral post on social media claims that the Government of India is providing ₹10,000 to every family under ‘PM Funds’\n\n#PIBFactCheck\n\n❌ This claim is fake\n\n...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1327188834669391872?s=20",
+    "keywords": [
+      "PM Funds ₹10,000 claim",
+      "Government cash benefit ₹10,000",
+      "Fake PM fund scheme",
+      "Viral social media money post",
+      "Government family assistance fake"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 75.png",
+    "expected_query": "Central Government is depositing ₹1,24,000 into the bank accounts of all women under the “Stree Swab...",
+    "expected_response": "Thanks for checking! Here’s what I found:\n\nA YouTube video claims that the Central Government is depositing ₹1,24,000 into the bank accounts of all women under the “Stree Swabhiman Yojana”\n\n#PIBFactCh...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1328674897904627713?s=20",
+    "keywords": [
+      "Stree Swabhiman Yojana ₹1,24,000",
+      "Women bank account money claim",
+      "YouTube government cash video",
+      "Fake women welfare scheme",
+      "Viral cash transfer misinformation"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 76.png",
+    "expected_query": "Website Claims Consumers Can Apply for ₹1–2 Lakh Loan Under “Prime Minister Scheme Loan”",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nClaim:- A website is claiming that under the 'Prime Minister Scheme Loan', a con...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1364117888072753154?s=20",
+    "keywords": [
+      "Prime Minister Scheme Loan",
+      "₹1 lakh loan application",
+      "₹2 lakh government loan",
+      "Online loan scheme website",
+      "PM loan portal claim",
+      "Government loan registration"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 77.png",
+    "expected_query": "Website Claims ₹1,20,000 Payment for Employees Linked to Ministry of Labour and Employment",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nA website is claiming that the Ministry of Labour and Employment is giving Rs 1,...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1364464086814052354?s=20",
+    "keywords": [
+      "₹120000 employee payment",
+      "Ministry of Labour benefit claim",
+      "to 2021 employment scheme",
+      "Government payout website",
+      "Labour ministry announcement"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 78.png",
+    "expected_query": "Approval Letter Claims ₹5,600 Legal Charge for Solar Pump Installation Under KUSUM Yojana Linked to ...",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nAn approval letter purportedly issued by Ministry of New and Renewable Energy is...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1364545491162128395?s=20",
+    "keywords": [
+      "KUSUM Yojana solar pump",
+      "₹5600 legal charge",
+      "MNRE approval letter",
+      "Solar pump subsidy scheme",
+      "Renewable energy scheme India",
+      "Government solar installation claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 79.png",
+    "expected_query": "Website Claims ₹2,100 Payment Under ‘Beti Bachao, Beti Padhao’ Linked to Ministry of Women and Child...",
+    "expected_response": "Thanks for your query! We could not find an exact match for your query, but PIB Fact Check has busted a similar claim.\n\nA claim is being made on a #fake website of the Ministry of Women and Child Deve...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1364874719724400645?s=20",
+    "keywords": [
+      "Beti Bachao Beti Padhao scheme",
+      "₹2100 registration fee",
+      "Women and Child Development ministry",
+      "Job laptop mobile offer",
+      "Government scheme website claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 80.png",
+    "expected_query": "Fake Advertisent on the name of Beti Bachao Beti Padhao",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nAn advertisement claims that the government is providing jobs, laptops, and mobi...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1518892065098125312?s=20",
+    "keywords": [
+      "Beti Bachao Beti Padhao job offer fake",
+      "Beti Bachao Beti Padhao laptop mobile scam",
+      "Is Beti Bachao Beti Padhao giving money or jobs",
+      "Fake Beti Bachao Beti Padhao SMS earning scheme",
+      "Government job claim under Beti Bachao Beti Padhao fraud",
+      "Beti Bachao Beti Padhao recruitment advertisement fake or real"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 81.jpg",
+    "expected_query": "No interest will be charged on the Kisan Credit Card (KCC) from April 1",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check:\n\nA newspaper image claims that no interest will be charged on the Kisan Credit Ca...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1525423608952418305?s=20",
+    "keywords": [
+      "Kisan Credit Card interest zero from April 1 fake",
+      "Is KCC loan interest waived by government",
+      "Kisan Credit Card 0% interest claim true or false",
+      "KCC interest rate April 2022 news real or fake",
+      "Government decision on Kisan Credit Card interest rate",
+      "Does Kisan Credit Card have zero interest loan"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 82.jpg",
+    "expected_query": "Fake Ministry of Power Letter",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check\n\nA letter issued in the name of the Ministry of Power claims that “Goldcoat Solar”...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1508793544387211269?s=20",
+    "keywords": [
+      "Goldcoat Solar government collaboration fake",
+      "Fake Ministry of Power letter Goldcoat Solar",
+      "Is Goldcoat Solar tied up with Government of India",
+      "Power Ministry letter Goldcoat Solar real or fake",
+      "Goldcoat Solar renewable energy partnership claim fake",
+      "Fake government letter solar company scam"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 83.jpg",
+    "expected_query": "Fake claim that 2 lakh to all women under PM Women Scheme",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check\n\nA YouTube video claims that under the “Prime Minister Women Assistance Scheme”, t...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1506894148917669889?s=20",
+    "keywords": [
+      "Prime Minister Women Assistance Scheme ₹2 lakh fake",
+      "Is government giving 2 lakh to all women scheme real or fake",
+      "PM Women Assistance Scheme YouTube claim fake",
+      "Central government scheme for women 2 lakh rumor",
+      "Fake news about ₹2 lakh for women government scheme"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 84.jpg",
+    "expected_query": "Fake Website recruitment in the name of Ministry of Rural Development",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check \n\nA website ‘https://gusindia.co.in’ claims to work under the Ministry of Rural De...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1509054195374374918?s=20",
+    "keywords": [
+      "gusindia.co.in website fake or real",
+      "Gramin Udyamita Sansthan recruitment fake",
+      "Fake website claiming Ministry of Rural Development job",
+      "Is gusindia.co.in government official site",
+      "Fraud recruitment under MoRD fake organisation"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 85.jpg",
+    "expected_query": "Fake Excise Department Recruitment",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check \n\nAn appointment letter issued in the name of an “Excise Ministry” claims that the...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1516723085696659456?s=20",
+    "keywords": [
+      "Excise Ministry appointment letter fake",
+      "Field Distribution Officer job letter scam",
+      "Fake government appointment letter asking fee",
+      "Is there an Excise Ministry in Government of India",
+      "Government job offer application fee fraud",
+      "Fake recruitment letter Excise Ministry India"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 86.png",
+    "expected_query": "Fake claim that Government asked electric vechile manufacturers to halt new launch",
+    "expected_response": "Thanks for asking! I couldn't find something related to your query but PIB Fact Check has issued a similar fact check \n\nA report by ETAuto states that the Ministry of Road, Transport and Highways (MoR...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1519708797228691456?s=20",
+    "keywords": [
+      "Government order on electric vehicle launches",
+      "EV two-wheeler launch halt verification",
+      "Ministry clarification on EV manufacturers",
+      "Viral claim about EV policy"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 87.png",
+    "expected_query": "Raw Onion & Sendha Salt  Cure COVID-19",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA social media post claims that consuming raw onion with sendha salt can treat #coronavirus.\n\n#PIBFactCheck:\n\n✅  There is no scientific evidence to support tha...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1479352900673425412?s=20",
+    "keywords": [
+      "Raw onion cure claim",
+      "Sendha salt COVID remedy",
+      "Coronavirus home remedy misinformation",
+      "Fake health claims India",
+      "COVID19 treatment myth"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 88.png",
+    "expected_query": "Fake Order on Dearness Allowance in Circulation",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA #Fake order issued in the name of the Ministry of Finance claiming that the 'Dearness Allowance & Dearness Relief payable to Central Govt employees and pensi...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1477978054781775876?s=20",
+    "keywords": [
+      "Fake DA order",
+      "Dearness Allowance abeyance claim",
+      "Dearness Relief fake circular",
+      "Ministry of Finance fake notification",
+      "Central Govt employees DA misinformation",
+      "Pensioners DR fake order"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 89.png",
+    "expected_query": "Fake PM Mudra Loan Approval Letter Circulating",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA letter is circulating claiming to be an approval issued by the Ministry of Finance under the Pradhan Mantri Mudra Yojana (PMMY), granting a loan and asking t...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1477929476881207297?s=20",
+    "keywords": [
+      "Fake loan approval letter",
+      "PM Mudra Yojana scam",
+      "Ministry of Finance fake letter",
+      "₹4,500 legal charge fraud",
+      "Advance fee loan scam",
+      "Fraudulent government scheme letter"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 90.png",
+    "expected_query": "Fake Mobile Tower Installation NOC",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA No Objection Certificate (NOC) is circulating claiming that a mobile tower will be installed at the recipient’s location and seeks payment/clearance in the n...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1497804820274573313?s=20",
+    "keywords": [
+      "Fake No Objection Certificate",
+      "Mobile tower installation scam",
+      "DoT India fake letter",
+      "Telecom approval fraud",
+      "Tower installation payment scam",
+      "Department of Telecommunications fraud alert"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 91.png",
+    "expected_query": "Misleading Claim About Qutub Minar Lighting Linked to Russian Flag",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA tweet by global times news claims that Qutub Minar was lit up with the colours of the Russian flag.\n\n#PIBFactCheck:\n\n Qutub Minar was illuminated as part of ...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1500900036355719170?s=20",
+    "keywords": [
+      "Qutub Minar Jan Aushadhi lighting",
+      "Qutub Minar Jan Aushadhi Diwas 2022",
+      "Qutub Minar Russian flag claim",
+      "Qutub Minar illumination fact check",
+      "Jan Aushadhi Diwas monument lighting",
+      "Qutub Minar viral Russian colours"
+    ],
+    "verdict": "true"
+  },
+  {
+    "image": "Image 92.png",
+    "expected_query": "Fake Samagra Shiksha Website Offering Jobs",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA website - http://samagra.shikshaabhiyan.co.in is claiming to be the official website of Sarva Shiksha Abhiyan and offering employment opportunities.\n\n#PIBFac...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1501438872949243908?s=20",
+    "keywords": [
+      "Fake Samagra Shiksha website",
+      "Sarva Shiksha Abhiyan job scam",
+      "Samagra Shiksha fake recruitment portal",
+      "samagra.shikshaabhiyan.co.in fraud",
+      "Government job fake website alert",
+      "PIB Fact Check Samagra Shiksha"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 93.png",
+    "expected_query": "Claim of No Class 10 Board Exams Under New Education Policy is Fake",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA WhatsApp message claims that under the New Education Policy (NEP), board exams for Class 10th will be abolished.\n\n#PIBFactCheck:\n\n✅ The Ministry of Education...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1506159621328699393?s=20",
+    "keywords": [
+      "New Education Policy fake message",
+      "Class 10 board exam rumor",
+      "NEP no board exam claim false",
+      "WhatsApp viral education claim",
+      "PIB Fact Check NEP",
+      "Class 10 exam misinformation"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 94.png",
+    "expected_query": "Fake ₹1.55 Lakh Labour Ministry Benefit Message Viral on Social Media",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA viral message on social media claims that workers who worked between 1990–2021 are eligible to receive ₹1,55,000 from the Ministry of Labour and Employment.\n...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1533714086533660672?s=20",
+    "keywords": [
+      "₹1,55,000 Labour Ministry fake message",
+      "Ministry of Labour employment benefit scam",
+      "Labour Ministry viral WhatsApp message fake",
+      "government scheme fraud",
+      "PIB Fact Check Labour Ministry",
+      "Fake worker benefit announcement India"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 95.png",
+    "expected_query": "Fake ESIC ₹25,000 Monthly Unemployment Allowance Claim Viral",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA message circulating on social media claims that the Employees’ State Insurance Corporation (ESIC) is providing ₹25,000 per month for one year to all unemploy...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1539488667097436160?s=20",
+    "keywords": [
+      "ESIC ₹25,000 unemployment claim fake",
+      "ESIC monthly allowance viral message",
+      "Employees State Insurance Corporation scam",
+      "ESIC unemployment benefit misinformation",
+      "Fake ESIC scheme social media",
+      "ESIC ₹25000 per month fraud"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 96.png",
+    "expected_query": "Fake Claim of ₹3,400 Monthly Under “PM Gyanveer Scheme”",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA message circulating on social media claims that under the Prime Minister Gyanveer Scheme, all youth will receive ₹3,400 per month after registration.\n\n#PIBFa...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1567078129839243266?s=20",
+    "keywords": [
+      "PM Gyanveer Scheme fake claim",
+      "₹3,400 monthly youth scheme fraud",
+      "Prime Minister Gyanveer Yojana scam",
+      "Viral registration link fake scheme",
+      "Government scheme ₹3400 misinformation",
+      "PIB Fact Check PM scheme"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 97.png",
+    "expected_query": "Fake Appointment Letter Issued in the Name of Airport Authority of India",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA claim is being made through an appointment letter stating that the Airport Authority of India (AAI) is appointing an individual to the position of Declaratio...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1379038577376432128?s=20",
+    "keywords": [
+      "Airport Authority of India fake appointment",
+      "AAI Declaration Department letter fake",
+      "Fake AAI recruitment letter",
+      "Airport Authority job scam",
+      "PIB Fact Check AAI appointment",
+      "Fraud government job letter India"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 98.png",
+    "expected_query": "Report Claiming Privatization of Police Services",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA report by Dainik Bhaskar claims that under a proposal of the Central Government, several services of the police department will be handed over to private ent...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1539567200482521090?s=20",
+    "keywords": [
+      "Dainik Bhaskar police privatization fake",
+      "Police services private hands claim false",
+      "Central government police proposal fake",
+      "Police department privatization misinformation",
+      "PIB Fact Check police services",
+      "Fake news on police reforms India"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 99.png",
+    "expected_query": "Fake Claim About Removal of Nationality Column from Indian Passport",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nA WhatsApp message claims that the Government of India has removed the “Nationality: Indian” column from Indian passports.\n\n#PIBFactCheck:\n\n❌ Claim: The Govern...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1541726654292062209?s=20",
+    "keywords": [
+      "Indian passport nationality column fake",
+      "WhatsApp passport update misinformation",
+      "Nationality Indian removed claim false",
+      "Government of India passport rumor",
+      "PIB Fact Check passport claim",
+      "Fake passport legal update viral"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 100.png",
+    "expected_query": "Cyber Swachhta Kendra is an Official Government of India Initiative",
+    "expected_response": "Thanks for asking! Here’s what I found:\n\nCyber Swachhta Kendra (CSK) was launched by the Government of India for the detection and analysis of malware and botnets that affect networks and systems.\n\n#P...",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1536598057378512896?s=20",
+    "keywords": [
+      "Cyber Swachhta Kendra official",
+      "CSK Government of India initiative",
+      "MeitY Cyber Swachhta Kendra",
+      "Digital India cybersecurity program",
+      "Botnet detection India government",
+      "Malware analysis CSK"
+    ],
+    "verdict": "true"
+  }
+]

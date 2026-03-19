@@ -1,0 +1,52 @@
+[
+  {
+    "image": "example_new_structure.jpg",
+    "expected_query": "Is this SBI rewards APK message genuine?",
+    "expected_response": "The claim about SBI reward points is FALSE.",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2004888112846307655?s=20",
+    "verdict": "fake",
+    "keywords": [
+      "SBI rewards APK",
+      "SBI reward SMS",
+      "download SBI APK",
+      "phishing SBI"
+    ]
+  },
+  {
+    "image": "example_old_structure.png",
+    "expected_query": "Will DoT block my mobile number?",
+    "expected_response": "The claim is FALSE. DoT never makes such calls.",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2004153719781576878?s=20",
+    "keywords": [
+      "DoT call block number",
+      "mobile suspension call",
+      "fake telecom call",
+      "fake",
+      "false"
+    ]
+  },
+  {
+    "image": "example_misleading.jpg",
+    "expected_query": "Is this news about PM accurate?",
+    "expected_response": "The claim is MISLEADING due to missing context.",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1234567890123456789?s=20",
+    "verdict": "misleading",
+    "keywords": [
+      "PM statement",
+      "out of context",
+      "partial information"
+    ]
+  },
+  {
+    "image": "example_true.png",
+    "expected_query": "Did the government announce this scheme?",
+    "expected_response": "The claim is TRUE. This scheme was officially announced.",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/9876543210987654321?s=20",
+    "verdict": "true",
+    "keywords": [
+      "government scheme",
+      "official announcement",
+      "verified claim"
+    ]
+  }
+]

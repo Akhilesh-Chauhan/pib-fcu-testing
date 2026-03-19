@@ -1,0 +1,48 @@
+[
+  {
+    "image": "Image 1.png",
+    "expected_query": "Is it true that ₹500 notes will be stopped from ATMs by 2026?",
+    "expected_response": "Some social media posts claim that the Reserve Bank of India will discontinue the circulation of ₹500 notes by March 2026.RBI has made NO such announcement. ₹500 notes have NOT been discontinued and remain legal tender. Don’t fall for such misinformation. Always verify news from official sources before believing or sharing it!.",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2007021671887294491?s=20",
+    "verdict":"fake",
+    "keywords": [
+      "RBI stop 500 notes from ATM",
+      "500 note discontinued by March 2026",
+      "500 notes ban by March 2026",
+      "RBI discontinue ₹500",
+      "500 note removed from ATMs",
+      "RBI ATM 500 note stop",
+      "ATMs not giving 500 note"
+    ]
+  },
+  {
+    "image": "Image 2.png",
+    "expected_query": "Is this post about the India–Bhutan hydropower project true?",
+    "expected_response": "Claims about irregularities in the Punatsangchhu-II Hydroelectric Project are misleading. The project is implemented under a 2010 bilateral agreement between India and Bhutan. It is managed by PHPA-II with representation from both governments.",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1988940604534059045?s=20",
+    "verdict":"misleading",
+    "keywords": [
+      "Bhutan hydropower project controversy",
+      "India Bhutan hydropower project claim",
+      "Punatsangchhu II project issue",
+      "Bhutan dam misleading claim",
+      "PHPA II Bhutan",
+      "India Bhutan agreement hydropower",
+      "bilateral hydropower project Bhutan"
+    ]
+  },
+  {
+    "image": "Image 3.png",
+    "expected_query": "Is India really planning incentives to revive dormant airports?",
+    "expected_response": "The claim that India plans to roll out financial incentives to revive dormant airports is false. No such proposal is under consideration by the Government of India.",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1988638807454081189?s=20",
+    "verdict":"fake",
+    "keywords": [
+      "India revive dormant airports",
+      "financial incentives airports India",
+      "government incentive airports",
+      "revive inactive airports India",
+      "Business Standard claim dormant airports"
+    ]
+  }
+]

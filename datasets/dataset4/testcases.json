@@ -1,0 +1,675 @@
+[
+  {
+    "image": "Image 1.jpg",
+    "expected_query": "Is this SBI rewards APK message genuine?",
+    "expected_response": "The claim about an SBI reward redemption message asking users to download and install an APK file is FALSE. The official State Bank of India never sends links or APK files over SMS or WhatsApp. Never download unknown files or click on suspicious links. Source: https://x.com/PIBFactCheck/status/2004888112846307655?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2004888112846307655?s=20",
+    "keywords": [
+      "SBI rewards APK",
+      "SBI reward SMS",
+      "download SBI APK",
+      "SBI WhatsApp reward link",
+      "SBI fake reward app",
+      "phishing SBI"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 2.png",
+    "expected_query": "Will SBI YONO app be blocked if Aadhaar is not updated?",
+    "expected_response": "The claim that SBI YONO accounts will be blocked if Aadhaar is not updated is FALSE. SBI does not ask users to download APK files or share personal or Aadhaar details through such messages. Source: https://x.com/PIBFactCheck/status/1990453755280847072?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1990453755280847072?s=20",
+    "keywords": [
+      "SBI YONO blocked",
+      "Aadhaar update YONO",
+      "SBI Aadhaar APK",
+      "SBI phishing message",
+      "YONO fake message"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 3.jpg",
+    "expected_query": "Will DoT block my mobile number through a call?",
+    "expected_response": "The claim that the Department of Telecommunications calls people to threaten mobile number blocking is FALSE. DoT never makes such calls. This is a scam attempt. Source: https://x.com/PIBFactCheck/status/1999092176635166807?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2004153719781576878?s=20",
+    "keywords": [
+      "DoT call block number",
+      "mobile suspension call",
+      "DoT automated call",
+      "fake telecom call",
+      "cybercrime scam"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 4.png",
+    "expected_query": "Is the TRAI DND app genuine for blocking spam calls?",
+    "expected_response": "The claim about the TRAI DND app allowing users to report and block promotional calls is TRUE. The app enables users to register under Do Not Disturb to avoid unsolicited commercial communication. Source: https://x.com/PIBFactCheck/status/1923725073128542267?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1923725073128542267?s=20",
+    "keywords": [
+      "TRAI DND app",
+      "block spam calls",
+      "report telemarketing",
+      "TRAI app genuine",
+      "DND registration"
+    ],
+    "verdict": "true"
+  },
+  {
+    "image": "Image 5.png",
+    "expected_query": "Can Income Tax Department access social media from 2026?",
+    "expected_response": "The claim that from April 1, 2026, the Income Tax Department can routinely access social media and emails is MISLEADING. Such powers apply only during formal search and survey operations related to significant tax evasion. Source: https://x.com/PIBFactCheck/status/2003063216386228451?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2003063216386228451?s=20",
+    "keywords": [
+      "Income tax social media access",
+      "Finance Act 2025",
+      "tax monitoring WhatsApp",
+      "income tax emails check",
+      "misleading tax claim"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 6.png",
+    "expected_query": "Are ₹500 notes being discontinued by RBI?",
+    "expected_response": "The claim that ₹500 currency notes will be discontinued is FALSE. RBI has made no such announcement. ₹500 notes remain legal tender. Source: https://x.com/PIBFactCheck/status/1929898698290672131?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1929898698290672131?s=20",
+    "keywords": [
+      "500 note discontinued",
+      "RBI 500 ban",
+      "₹500 phase out",
+      "RBI announcement",
+      "currency fake news"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 7.png",
+    "expected_query": "Is the India Post address update SMS genuine?",
+    "expected_response": "The claim that India Post sends SMS links to update address details is FALSE. India Post never asks customers to update address details via SMS links. Source: https://x.com/PIBFactCheck/status/1996110928593797284?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1996110928593797284?s=20",
+    "keywords": [
+      "India Post address SMS",
+      "India Post phishing",
+      "update delivery link",
+      "fake India Post message",
+      "postal scam"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 8.png",
+    "expected_query": "Is the HP Gas agency approval letter genuine?",
+    "expected_response": "The approval letter claiming to provide HPCL gas distributorship is FALSE. The letter is fake. Visit official website for authentic information. Source: https://x.com/PIBFactCheck/status/1964655682659217561?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1964655682659217561?s=20",
+    "keywords": [
+      "HP gas approval letter",
+      "HPCL distributorship fake",
+      "LPG dealership scam",
+      "HP gas fake letter",
+      "gas agency fraud"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 9.jpg",
+    "expected_query": "Is India Post discontinuing Registered Post?",
+    "expected_response": "The claim that India Post is discontinuing Registered Post is MISLEADING. It is being merged with Speed Post while key features remain unchanged. Source: https://x.com/PIBFactCheck/status/1953727796603396435?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1953727796603396435?s=20",
+    "keywords": [
+      "Registered Post discontinued",
+      "India Post merge Speed Post",
+      "postal service change",
+      "registered post validity",
+      "misleading claim"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 10.jpg",
+    "expected_query": "Did PM Modi violate protocol during Jordan visit?",
+    "expected_response": "The claim that PM Narendra Modi violated protocol during his Jordan visit is FALSE. The viral video is AI-manipulated and fake. Source: https://x.com/PIBFactCheck/status/2001899952088445089?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2001899952088445089?s=20",
+    "keywords": [
+      "Modi Jordan protocol",
+      "AI manipulated video",
+      "PM visit controversy",
+      "fake diplomatic issue",
+      "propaganda video"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 11.jpg",
+    "expected_query": "Is viksitbharatrozgaryojana.org an official government website?",
+    "expected_response": "The claim that viksitbharatrozgaryojana.org is linked to the Ministry of Labour & Employment is FALSE. The website is fake and not associated with the Government of India. Source: https://x.com/PIBFactCheck/status/1963171229596061964?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1963171229596061964?s=20",
+    "keywords": [
+      "viksitbharatrozgaryojana.org",
+      "fake recruitment website",
+      "Ministry of Labour scam",
+      "PMVBRY fake site",
+      "government job fraud"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 12.png",
+    "expected_query": "Is the viral MEA letter about Australia genuine?",
+    "expected_response": "The letter attributed to Foreign Secretary Vikram Misri regarding cooperation with Australian authorities is FALSE. The Ministry of External Affairs has issued no such letter. Source: https://x.com/PIBFactCheck/status/2000918804071940255?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2000918804071940255?s=20",
+    "keywords": [
+      "MEA letter Australia",
+      "Vikram Misri fake letter",
+      "Australian investigation claim",
+      "foreign secretary viral letter",
+      "fake MEA document"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 13.png",
+    "expected_query": "Is the video of Nirmala Sitharaman promoting an investment platform real?",
+    "expected_response": "The claim that the Finance Minister endorsed an investment scheme promising high returns is FALSE. The video is digitally altered and fake. Source: https://x.com/PIBFactCheck/status/1965381174366445946?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1965381174366445946?s=20",
+    "keywords": [
+      "Nirmala Sitharaman investment",
+      "AI investment scam",
+      "fake finance minister video",
+      "₹60000 in 24 hours scam",
+      "government investment fraud"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 14.jpg",
+    "expected_query": "Did India ask Russia to replace destroyed S-400 systems?",
+    "expected_response": "The letter claiming India requested Russia to replace destroyed S-400 systems is FALSE. The letter is fake and part of propaganda. Source: https://x.com/PIBFactCheck/status/1998026820604813666?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1998026820604813666?s=20",
+    "keywords": [
+      "S-400 destroyed",
+      "India Russia replacement",
+      "defence fake letter",
+      "Pakistan propaganda",
+      "S400 viral claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 15.png",
+    "expected_query": "Is the DoT NOC for mobile tower installation genuine?",
+    "expected_response": "The claim that the Department of Telecommunications issued an NOC for mobile tower installation with a fee is FALSE. Such letters are part of fraud. Source: https://x.com/PIBFactCheck/status/1995092603323502923?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1995092603323502923?s=20",
+    "keywords": [
+      "DoT mobile tower NOC",
+      "tower installation scam",
+      "mobile tower fraud",
+      "agreement fee scam",
+      "fake DoT certificate"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 16.png",
+    "expected_query": "Will retired government employees stop getting DA hikes?",
+    "expected_response": "The claim that retired government employees will lose DA hikes under Finance Act 2025 is FALSE. DA and Pay Commission benefits continue as per existing rules. Source: https://x.com/PIBFactCheck/status/1988887470436716774?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1988887470436716774?s=20",
+    "keywords": [
+      "DA hike stopped",
+      "pensioners benefit withdrawn",
+      "Finance Act 2025 pension",
+      "retired employee DA",
+      "fake pension news"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 17.png",
+    "expected_query": "Is India Post giving ₹20,000 Christmas gift through a quiz?",
+    "expected_response": "The claim that India Post is offering ₹20,000 through a Christmas quiz is FALSE. No such scheme has been announced. Source: https://x.com/PIBFactCheck/status/2003804622130196480?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2003804622130196480?s=20",
+    "keywords": [
+      "India Post Christmas gift",
+      "₹20000 quiz scam",
+      "postal WhatsApp scam",
+      "India Post fake link",
+      "gift reward fraud"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 18.png",
+    "expected_query": "Did former Army Chief Ved Prakash Malik praise Pakistan?",
+    "expected_response": "The viral video showing Ved Prakash Malik praising Pakistan and admitting destruction of Rafale and S-400 systems is FALSE. The video is AI-generated and fake. Source: https://x.com/PIBFactCheck/status/2000112419243507948?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2000112419243507948?s=20",
+    "keywords": [
+      "Ved Prakash Malik video",
+      "AI deepfake army chief",
+      "Rafale destruction claim",
+      "S400 propaganda video",
+      "Pakistan fake video"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 19.png",
+    "expected_query": "Did CDS Anil Chauhan admit India lost 7 fighter jets?",
+    "expected_response": "The claim that CDS General Anil Chauhan admitted India lost 7 fighter jets is FALSE. The viral video is an AI-generated deepfake. Source: https://x.com/PIBFactCheck/status/1948838884558995794?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1948838884558995794?s=20",
+    "keywords": [
+      "CDS Anil Chauhan video",
+      "7 fighter jets claim",
+      "ceasefire admission fake",
+      "deepfake defence video",
+      "AI manipulated CDS"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 20.png",
+    "expected_query": "Is China building up military near Arunachal Pradesh?",
+    "expected_response": "The claim that China started a massive military build-up near Arunachal Pradesh is FALSE. The viral video is unrelated and shows a separate PLA exercise. Source: https://x.com/PIBFactCheck/status/2000087543845720098?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2000087543845720098?s=20",
+    "keywords": [
+      "China military Arunachal",
+      "PLA build up video",
+      "Indian border tension claim",
+      "fake border news",
+      "propaganda video"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 21.png",
+    "expected_query": "Did the US warn PM Modi about a Pakistan attack?",
+    "expected_response": "The claim that the US warned PM Modi about a Pakistan attack and India accepted conditions is MISLEADING. The statement of EAM S. Jaishankar was selectively quoted and misrepresented. Source: https://x.com/PIBFactCheck/status/1940791899289215196?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1940791899289215196?s=20",
+    "keywords": [
+      "US warned Modi",
+      "Pakistan attack warning",
+      "Jaishankar Newsweek interview",
+      "India US pressure claim",
+      "ceasefire misinformation"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 22.jpg",
+    "expected_query": "Did the government admit COVID vaccines can cause paralysis?",
+    "expected_response": "The claim that the Government admitted COVID-19 vaccines cause paralysis is FALSE and misleading. There is no scientific evidence of increased neurological disorders due to vaccines. Source: https://x.com/PIBFactCheck/status/1999392723691012412?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1999392723691012412?s=20",
+    "keywords": [
+      "COVID-19 vaccine paralysis",
+      "CDSCO letter claim",
+      "Covishield side effects",
+      "Covaxin neurological disorder",
+      "vaccine misinformation"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 23.png",
+    "expected_query": "Did NCC DG Virendra Vats say Pakistani drones reached Delhi?",
+    "expected_response": "The viral video claiming NCC DG Virendra Vats said Pakistani drones reached Delhi is FALSE. The video is digitally manipulated and AI-generated. Source: https://x.com/PIBFactCheck/status/1999378191446868289?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1999378191446868289?s=20",
+    "keywords": [
+      "Virendra Vats video",
+      "Pakistani drones Delhi",
+      "NCC DG deepfake",
+      "AI generated defence video",
+      "propaganda clip"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 24.png",
+    "expected_query": "Is the letter signed by S. Jaishankar genuine?",
+    "expected_response": "The letter attributed to Union Minister Dr. S. Jaishankar circulating online is FALSE. It is a fake document. Source: https://x.com/PIBFactCheck/status/1999092176635166807?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1999092176635166807?s=20",
+    "keywords": [
+      "Jaishankar fake letter",
+      "MEA viral document",
+      "foreign minister letter",
+      "fake government document",
+      "misinformation campaign"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 25.png",
+    "expected_query": "Will two-wheelers have to pay toll charges on highways?",
+    "expected_response": "The claim that two-wheelers will be charged toll fees on highways is FALSE. NHAI has made no such announcement and bikes remain exempt. Source: https://x.com/NHAI_Official/status/1938155675445588222",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1938176560227631193?s=20",
+    "keywords": [
+      "two wheeler toll",
+      "bike toll tax India",
+      "NHAI toll exemption",
+      "highway toll fake news",
+      "scooter toll charge"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 26.png",
+    "expected_query": "Is the I4C arrest warning letter genuine?",
+    "expected_response": "The letter claiming to be from I4C threatening arrest is FALSE. It is a digital arrest scam and not issued by any Government agency. Source: https://x.com/PIBFactCheck/status/1999092176635166807?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1999015122770211094?s=20",
+    "keywords": [
+      "I4C arrest letter",
+      "digital arrest scam",
+      "cyber crime warning fake",
+      "I4C notice fraud",
+      "fake arrest warrant"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 27.jpg",
+    "expected_query": "Can factory owners force workers to work 12 hours under new labour laws?",
+    "expected_response": "The claim that factory owners can force workers to work 12 hours and pay for only 8 hours is FALSE. Overtime must be paid and worker consent is mandatory. Source: https://x.com/PIBFactCheck/status/1998732934778401056?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1998732934778401056?s=20",
+    "keywords": [
+      "new labour code 12 hours",
+      "overtime payment rule",
+      "factory worker rest period",
+      "labour law misinformation",
+      "CITU claim fake"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 28.png",
+    "expected_query": "Did the Indian Army trigger landmine explosions in Balakot?",
+    "expected_response": "The claim that the Indian Army triggered landmine explosions in Balakot is MISLEADING. The explosions were caused by a forest fire and falsely attributed as propaganda. Source: https://x.com/PIBFactCheck/status/1998287358438064534?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1998287358438064534?s=20",
+    "keywords": [
+      "Balakot landmine explosion",
+      "LoC forest fire",
+      "Indian Army propaganda",
+      "Pakistan misinformation",
+      "border fake video"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 29.png",
+    "expected_query": "Is the photo of aircraft on fire at Udhampur Air Base real?",
+    "expected_response": "The claim that aircraft were on fire at Udhampur Air Base is FALSE. The image is misattributed and not from the Indian Air Force. Source: https://x.com/PIBFactCheck/status/1922967703335338276?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1922967703335338276?s=20",
+    "keywords": [
+      "Udhampur air base fire",
+      "IAF aircraft burning",
+      "defence fake image",
+      "propaganda photo",
+      "misattributed aircraft"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 30.jpg",
+    "expected_query": "Were India’s S-400 systems destroyed during tensions?",
+    "expected_response": "The claim that India’s S-400 systems were destroyed is FALSE. The circulating letter is fake propaganda. Source: https://x.com/PIBFactCheck/status/1998026820604813666?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1998026820604813666?s=20",
+    "keywords": [
+      "S400 destroyed India",
+      "India Pakistan tensions S400",
+      "fake defence letter",
+      "propaganda claim",
+      "Russia replacement rumor"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 31.png",
+    "expected_query": "Is EPFO stopping pensions if a new form is not submitted?",
+    "expected_response": "The claim that EPFO will suspend pensions for not submitting a new form is FALSE. EPFO has issued no such notice and no pension suspension directive exists. Source: https://x.com/PIBFactCheck/status/1938274883424665605?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1938274883424665605?s=20",
+    "keywords": [
+      "EPFO pension stop",
+      "EPFO new form notice",
+      "pension suspension fake",
+      "EPFO urgent circular",
+      "pension misinformation"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 32.png",
+    "expected_query": "Is the video of the Aviation Minister dancing related to recent flight cancellations?",
+    "expected_response": "The claim is MISLEADING. The video of Union Civil Aviation Minister Kinjarapu Ram Mohan Naidu is four months old and unrelated to current IndiGo flight cancellations. Source: https://x.com/PIBFactCheck/status/1997937595800846503?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1997937595800846503?s=20",
+    "keywords": [
+      "Aviation minister dancing",
+      "Indigo flight cancellation video",
+      "old video reused",
+      "Ram Mohan Naidu clip",
+      "misleading viral video"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 33.png",
+    "expected_query": "Has the government opened a special bank account for army modernisation?",
+    "expected_response": "The claim that a special bank account was opened for army modernisation is MISLEADING. The account relates to the Armed Forces Battle Casualty Welfare Fund, not defence procurement. Source: https://x.com/PIBFactCheck/status/1925195668852752801?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1925195668852752801?s=20",
+    "keywords": [
+      "army modernisation fund",
+      "special army bank account",
+      "AFBCWF fund",
+      "defence donation rumor",
+      "misleading army fund claim"
+    ],
+    "verdict": "misleading"
+  },
+  {
+    "image": "Image 34.png",
+    "expected_query": "Is the government giving ₹2,500 per month to unemployed youth?",
+    "expected_response": "The claim that the Central Government is giving ₹2,500 per month as unemployment allowance is FALSE. No such scheme exists. Source: https://x.com/PIBFactCheck/status/2003407934093688960?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/2003407934093688960?s=20",
+    "keywords": [
+      "2500 unemployment allowance",
+      "government youth scheme fake",
+      "monthly allowance rumor",
+      "unemployment scheme India",
+      "viral benefit claim"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 35.jpg",
+    "expected_query": "Did the government admit COVID vaccines cause paralysis?",
+    "expected_response": "The claim that COVID-19 vaccines cause paralysis is FALSE and misleading. There is no scientific evidence showing increased neurological disorders due to vaccines. Source: https://x.com/PIBFactCheck/status/1999392723691012412?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1999392723691012412?s=20",
+    "keywords": [
+      "COVID vaccine paralysis claim",
+      "Covishield neurological",
+      "Covaxin side effect rumor",
+      "CDSCO misinterpretation",
+      "vaccine misinformation"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 36.jpg",
+    "expected_query": "Is the central government distributing free bicycles?",
+    "expected_response": "The claim that the Central Government is running a free bicycle distribution scheme is FALSE. No such scheme exists. Source: https://x.com/PIBFactCheck/status/1997962583425655071?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1997962583425655071?s=20",
+    "keywords": [
+      "free bicycle scheme",
+      "government bicycle distribution",
+      "viral bicycle claim",
+      "fake central scheme",
+      "bicycle subsidy rumor"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 37.png",
+    "expected_query": "Is Piyush Goyal promoting the QuantumAI investment platform?",
+    "expected_response": "The claim that Union Minister Piyush Goyal endorsed QuantumAI is FALSE. The video is digitally altered and the government supports no such scheme. Source: https://x.com/PIBFactCheck/status/1997238492729131346?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1997238492729131346?s=20",
+    "keywords": [
+      "Piyush Goyal QuantumAI",
+      "investment scam video",
+      "₹21000 investment claim",
+      "fake minister endorsement",
+      "AI investment fraud"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 38.png",
+    "expected_query": "Did the Navy Chief say Pakistan tracked Indian fighter jets?",
+    "expected_response": "The claim that Navy Chief Admiral Dinesh K. Tripathi admitted Pakistan tracked Indian jets is FALSE. The clip is AI-generated and fake. Source: https://x.com/PIBFactCheck/status/1996262495573664101?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1996262495573664101?s=20",
+    "keywords": [
+      "Navy Chief deepfake",
+      "Operation Sindoor video",
+      "Pakistan tracked jets claim",
+      "AI defence video",
+      "fake military briefing"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 39.jpg",
+    "expected_query": "Did BSF IG Ashok Yadav admit failure in Kashmir operations?",
+    "expected_response": "The claim that BSF IG Ashok Yadav admitted failure is FALSE. The viral video is digitally manipulated and AI-generated. Source: https://x.com/PIBFactCheck/status/1995547591770341577?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1995547591770341577?s=20",
+    "keywords": [
+      "Ashok Yadav video",
+      "BSF failure claim",
+      "deepfake BSF officer",
+      "Kashmir operations misinformation",
+      "AI manipulated clip"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 40.jpg",
+    "expected_query": "Has Israel cancelled defence exercises with India?",
+    "expected_response": "The claim that Israel cancelled defence exercises with India is FALSE. The viral video of IAI CEO Boaz Levy is AI-generated and fake. Source: https://x.com/PIBFactCheck/status/1996142171045634337?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1996142171045634337?s=20",
+    "keywords": [
+      "Israel defence exercise cancel",
+      "Boaz Levy fake video",
+      "India Israel military rumor",
+      "AI propaganda clip",
+      "fake defence news"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 42.jpg",
+    "expected_query": "Did BSF IG Ashok Yadav admit failure in counter-terrorism operations?",
+    "expected_response": "The claim that BSF IG Ashok Yadav admitted failure in counter-terrorism operations is FALSE. The viral video is digitally manipulated and AI-generated. Source: https://x.com/PIBFactCheck/status/1995547591770341577?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1995547591770341577?s=20",
+    "keywords": [
+      "BSF IG Ashok Yadav",
+      "counter terrorism failure",
+      "deepfake BSF video",
+      "Kashmir propaganda clip",
+      "AI manipulated defence video"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 43.png",
+    "expected_query": "Did India ask Pakistan to send Imran Khan as a political prisoner?",
+    "expected_response": "The claim that India asked Pakistan to send Imran Khan as a political prisoner is FALSE. The letter circulating online is fake and part of a disinformation campaign. Source: https://x.com/PIBFactCheck/status/1995470903246016879?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1995470903246016879?s=20",
+    "keywords": [
+      "Imran Khan political prisoner",
+      "MEA fake letter",
+      "India Pakistan propaganda",
+      "viral diplomatic letter",
+      "disinformation campaign"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 44.png",
+    "expected_query": "Did Air Chief Marshal A. P. Singh praise Pakistan in a letter?",
+    "expected_response": "The letter claiming Air Chief Marshal A. P. Singh praised Pakistan is FALSE. The document has been digitally morphed and is fake. Source: https://x.com/PIBFactCheck/status/1995366823832047729?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1995366823832047729?s=20",
+    "keywords": [
+      "Air Chief Marshal letter",
+      "IAF chief fake praise",
+      "Pakistan propaganda letter",
+      "digitally morphed document",
+      "fake defence letter"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 45.png",
+    "expected_query": "Did CDS Anil Chauhan say India surrendered territory to China?",
+    "expected_response": "The claim that CDS General Anil Chauhan said India surrendered territory to China is FALSE. The viral video is digitally altered and AI-generated. Source: https://x.com/PIBFactCheck/status/1994728432157299204?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1994728432157299204?s=20",
+    "keywords": [
+      "CDS surrender claim",
+      "Arunachal Ladakh surrender",
+      "China territory fake video",
+      "deepfake defence speech",
+      "AI manipulated CDS clip"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 46.png",
+    "expected_query": "Did the IAF Chief resign after losing Rafale and Tejas aircraft?",
+    "expected_response": "The claim that the Indian Air Force Chief resigned after losing Rafale and Tejas aircraft is FALSE. The circulating letter is fake and part of a disinformation campaign. Source: https://x.com/PIBFactCheck/status/1994423295987613854?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1994423295987613854?s=20",
+    "keywords": [
+      "IAF Chief resignation",
+      "Rafale loss claim",
+      "Tejas aircraft fake news",
+      "Air Force fake letter",
+      "defence misinformation"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 47.png",
+    "expected_query": "Is RBI withdrawing ₹500 notes with the green strip near Gandhi?",
+    "expected_response": "The claim that RBI is withdrawing ₹500 notes with a green strip near Gandhi’s image is FALSE. Such notes remain valid legal tender and no advisory has been issued. Source: https://x.com/PIB_India/status/1207233648157585409?s=20",
+    "fact_check_link": "https://x.com/PIB_India/status/1207233648157585409?s=20",
+    "keywords": [
+      "500 note green strip",
+      "RBI currency withdrawal",
+      "₹500 fake note rumor",
+      "security strip position",
+      "currency misinformation"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 48.png",
+    "expected_query": "Are lawyers exempted from paying toll fees in India?",
+    "expected_response": "The claim that lawyers are exempted from paying toll fees on national highways is FALSE. NHAI has issued no such exemption. Source: https://x.com/PIBFactCheck/status/1207651097466195970?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1207651097466195970?s=20",
+    "keywords": [
+      "lawyers toll exemption",
+      "NHAI toll rule",
+      "advocate toll free claim",
+      "highway toll fake letter",
+      "legal profession exemption rumor"
+    ],
+    "verdict": "fake"
+  },
+  {
+    "image": "Image 49.png",
+    "expected_query": "Is the women safety SMS police service genuine?",
+    "expected_response": "The claim that women can SMS vehicle numbers to police at 9969777888 for tracking is FALSE. The service was Mumbai-specific and discontinued in 2017. Source: https://x.com/PIBFactCheck/status/1207653814930530304?s=20",
+    "fact_check_link": "https://x.com/PIBFactCheck/status/1207653814930530304?s=20",
+    "keywords": [
+      "women safety SMS",
+      "9969777888 police number",
+      "GPRS taxi tracking",
+      "night travel safety message",
+      "outdated police service"
+    ],
+    "verdict": "fake"
+  }
+]
