@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { 
+  CONFIG,
   TestResult, 
   DatasetSummary, 
   MasterSummary, 
@@ -77,9 +78,10 @@ export function archiveReports(): void {
     const srcDir = path.join(reportsDir, dataset);
     const destDir = path.join(archiveDir, dataset);
     
-    // Copy dataset-summary.json and report.html
+    // Copy entire dataset folder recursively
     ensureDir(destDir);
     
+    // Copy dataset-summary.json and report.html
     const datasetSummary = path.join(srcDir, 'dataset-summary.json');
     const datasetReport = path.join(srcDir, 'report.html');
     
@@ -88,6 +90,32 @@ export function archiveReports(): void {
     }
     if (fs.existsSync(datasetReport)) {
       fs.copyFileSync(datasetReport, path.join(destDir, 'report.html'));
+    }
+    
+    // Copy individual reports folder if it exists
+    const individualDir = path.join(srcDir, 'individual');
+    if (fs.existsSync(individualDir)) {
+      const destIndividualDir = path.join(destDir, 'individual');
+      ensureDir(destIndividualDir);
+      
+      const individualFiles = fs.readdirSync(individualDir);
+      for (const file of individualFiles) {
+        const srcFile = path.join(individualDir, file);
+        const destFile = path.join(destIndividualDir, file);
+        
+        if (fs.statSync(srcFile).isFile()) {
+          fs.copyFileSync(srcFile, destFile);
+        }
+      }
+    }
+    
+    // Copy all JSON files (test results)
+    const jsonFiles = fs.readdirSync(srcDir).filter(f => f.endsWith('.json') && f !== 'dataset-summary.json');
+    for (const jsonFile of jsonFiles) {
+      fs.copyFileSync(
+        path.join(srcDir, jsonFile),
+        path.join(destDir, jsonFile)
+      );
     }
   }
   
@@ -273,8 +301,59 @@ export function generateIndividualTestReport(result: TestResult): void {
       <h1>🖼️ Test Report: ${imageName}</h1>
       <div class="test-status">${statusIcon} ${statusText}</div>
       <p><strong>Dataset:</strong> ${result.datasetName}</p>
+      <p><strong>Test Mode:</strong> ${result.testMode || 'UI'}</p>
       <p><strong>Response Time:</strong> ${result.responseTime}ms</p>
     </div>
+
+    ${result.testMode === 'API' ? `
+    <!-- API Request Details -->
+    <div class="section" style="background: linear-gradient(135deg, #e0f7fa 0%, #e1f5fe 100%); border-left: 4px solid #00acc1;">
+      <h3>🔌 API Request Details</h3>
+      <div class="info-grid">
+        <div class="info-label">API Endpoint:</div>
+        <div class="info-value"><code style="background: #fff; padding: 2px 6px; border-radius: 3px;">${result.apiEndpoint || 'N/A'}</code></div>
+        
+        <div class="info-label">Session ID:</div>
+        <div class="info-value"><code style="background: #fff; padding: 2px 6px; border-radius: 3px;">${result.sessionId || 'N/A'}</code></div>
+        
+        <div class="info-label">HTTP Status:</div>
+        <div class="info-value">
+          <span style="padding: 4px 12px; border-radius: 4px; font-weight: 600; ${
+            result.httpStatus === 200 ? 'background: #d4edda; color: #155724;' :
+            result.httpStatus === 429 ? 'background: #fff3cd; color: #856404;' :
+            'background: #f8d7da; color: #721c24;'
+          }">
+            ${result.httpStatus || 'N/A'}
+            ${result.httpStatus === 200 ? ' ✅ OK' : 
+              result.httpStatus === 429 ? ' ⚠️ Rate Limited' : 
+              result.httpStatus === 0 ? ' ❌ No Response' :
+              ' ❌ Error'}
+          </span>
+        </div>
+        
+        <div class="info-label">Retry Attempts:</div>
+        <div class="info-value">${result.retryAttempts || 0} ${result.retryAttempts && result.retryAttempts > 0 ? '⚠️' : ''}</div>
+        
+        <div class="info-label">Response Time:</div>
+        <div class="info-value">${result.responseTime}ms</div>
+        
+        <div class="info-label">Timestamp:</div>
+        <div class="info-value">${new Date(result.timestamp).toLocaleString()}</div>
+      </div>
+      ${result.httpStatus === 429 ? `
+      <div style="background: #fff3cd; border: 1px solid #ffc107; padding: 1rem; margin-top: 1rem; border-radius: 4px;">
+        <strong>⚠️ Rate Limit Error:</strong> The API rejected this request due to too many requests. 
+        Consider increasing the rate limit delay in <code>config/config.ts</code>.
+      </div>
+      ` : ''}
+      ${result.retryAttempts && result.retryAttempts > 0 ? `
+      <div style="background: #d1ecf1; border: 1px solid #0dcaf0; padding: 1rem; margin-top: 1rem; border-radius: 4px;">
+        <strong>ℹ️ Retry Information:</strong> This request required ${result.retryAttempts} retry ${result.retryAttempts === 1 ? 'attempt' : 'attempts'} 
+        before ${result.passed ? 'succeeding' : 'failing'}.
+      </div>
+      ` : ''}
+    </div>
+    ` : ''}
 
     <!-- Test Information -->
     <div class="section">
@@ -367,6 +446,7 @@ export function generateIndividualTestReport(result: TestResult): void {
     </div>
     ` : ''}
 
+    ${result.testMode !== 'API' || responseScreenshot || failureScreenshot ? `
     <!-- Screenshots -->
     <div class="section">
       <h3>📸 Uploaded Image</h3>
@@ -375,7 +455,7 @@ export function generateIndividualTestReport(result: TestResult): void {
           <img src="${responseScreenshot}" alt="Uploaded Image and Response">
           <p class="screenshot-note">Screenshot showing the uploaded image and chatbot response</p>
         ` : `
-          <p style="color: #999;">No screenshot available</p>
+          <p style="color: #999;">${result.testMode === 'API' ? 'Screenshots not captured in API mode' : 'No screenshot available'}</p>
         `}
       </div>
     </div>
@@ -388,6 +468,7 @@ export function generateIndividualTestReport(result: TestResult): void {
         <p class="screenshot-note">Screenshot captured at the point of failure</p>
       </div>
     </div>
+    ` : ''}
     ` : ''}
 
     <!-- Metadata -->
@@ -425,15 +506,18 @@ export function generateDatasetSummary(
 ): DatasetSummary {
   const passed = results.filter(r => r.passed).length;
   const failed = results.length - passed;
+  const passRate = results.length > 0 ? (passed / results.length) * 100 : 0;
 
-  const averageResponseTime = results.reduce((sum, r) => sum + r.responseTime, 0) / results.length;
+  const totalResponseTime = results.reduce((sum, r) => sum + (r.responseTime || 0), 0);
+  const averageResponseTime = results.length > 0 ? totalResponseTime / results.length : 0;
 
   return {
     datasetName,
     totalTests: results.length,
     passed,
     failed,
-    averageResponseTime,
+    passRate: isNaN(passRate) ? 0 : passRate,
+    averageResponseTime: isNaN(averageResponseTime) ? 0 : Math.round(averageResponseTime),
     results,
   };
 }
@@ -692,9 +776,12 @@ function generateResultsTable(summary: DatasetSummary): string {
     const statusClass = result.passed ? 'status-pass' : 'status-fail';
     const statusIcon = result.passed ? '✅' : '❌';
     
-    // Link to individual report
+    // Link to individual report (only if report exists)
     const imageName = result.imageName.replace(/\.[^/.]+$/, '');
-    const individualReportLink = `individual/${imageName}.html`;
+    const individualReportPath = `individual/${imageName}.html`;
+    
+    // Check if individual report should exist (failures always, or all tests if not onlyFailures mode)
+    const hasIndividualReport = !result.passed || !CONFIG.REPORT_MODE.onlyFailures;
 
     // Extract query and response
     const queryAsked = result.queryDetected || 'N/A';
@@ -740,9 +827,17 @@ function generateResultsTable(summary: DatasetSummary): string {
         <td style="text-align: center;">${index + 1}</td>
         <td>${keywords}</td>
         <td style="text-align: center;">
-          <a href="${individualReportLink}" target="_blank" style="text-decoration: none;">
+          ${hasIndividualReport ? `
+          <a href="${individualReportPath}" target="_blank" style="text-decoration: none;">
             <img src="${imagePathFromDatasets}" alt="${result.imageName}" style="max-width: 150px; max-height: 150px; border: 2px solid #ddd; border-radius: 4px; cursor: pointer; display: block; margin: 0 auto;" title="Click to view detailed report" onerror="this.outerHTML='${result.imageName}'"/>
+            <div style="font-size: 0.75rem; color: #667eea; margin-top: 4px;">📄 View Report</div>
           </a>
+          ` : `
+            <div style="position: relative;">
+              <img src="${imagePathFromDatasets}" alt="${result.imageName}" style="max-width: 150px; max-height: 150px; border: 2px solid #ddd; border-radius: 4px; display: block; margin: 0 auto;" onerror="this.outerHTML='${result.imageName}'"/>
+              <div style="font-size: 0.75rem; color: #10b981; margin-top: 4px;">✅ No Report (Passed)</div>
+            </div>
+          `}
         </td>
         <td title="${expectedResponse}">${truncatedExpectedResponse}</td>
         <td>${result.query}</td>

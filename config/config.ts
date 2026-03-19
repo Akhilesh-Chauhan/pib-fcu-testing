@@ -26,9 +26,9 @@ export const CONFIG = {
   
   // Rate Limiting - Delays between API requests
   RATE_LIMIT: {
-    minDelaySeconds: parseFloat(process.env.RATE_LIMIT_MIN || '2'), // 2 seconds min
-    maxDelaySeconds: parseFloat(process.env.RATE_LIMIT_MAX || '5'), // 5 seconds max
-    errorDelayMultiplier: 2, // Double delay after errors
+    minDelaySeconds: parseFloat(process.env.RATE_LIMIT_MIN || '15'), // 15 seconds min (increased from 2)
+    maxDelaySeconds: parseFloat(process.env.RATE_LIMIT_MAX || '30'), // 30 seconds max (increased from 5)
+    errorDelayMultiplier: 3, // Triple delay after errors (increased from 2)
   },
   
   TIMEOUT: {
@@ -108,6 +108,7 @@ export type DefectCategory =
   | 'RESET_FAILURE'
   | 'FILE_NOT_FOUND'
   | 'UI_SELECTOR_ERROR'
+  | 'API_ERROR'
   | 'NONE';
 
 export interface TestResult {
@@ -137,6 +138,12 @@ export interface TestResult {
     usage?: StreamedResponse['usage'];
   };
   timestamp: string;
+  // API-specific fields
+  testMode?: 'UI' | 'API';
+  sessionId?: string;
+  httpStatus?: number;
+  apiEndpoint?: string;
+  retryAttempts?: number;
 }
 
 export interface DatasetSummary {
@@ -144,6 +151,7 @@ export interface DatasetSummary {
   totalTests: number;
   passed: number;
   failed: number;
+  passRate: number;
   averageResponseTime: number;
   results: TestResult[];
 }
