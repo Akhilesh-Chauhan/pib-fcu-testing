@@ -15,6 +15,12 @@
     "test:dataset10": "TEST_DATASETS=dataset10 playwright test tests/datasetRunner.spec.ts",
     "test:datasets": "playwright test tests/datasetRunner.spec.ts",
     "test:smoke": "playwright test tests/uiSmoke.spec.ts",
+    "api:test": "playwright test tests/apiRunner.spec.ts",
+    "api:dataset1": "TEST_DATASETS=dataset1 playwright test tests/apiRunner.spec.ts",
+    "api:dataset4": "TEST_DATASETS=dataset4 playwright test tests/apiRunner.spec.ts",
+    "api:dataset9": "TEST_DATASETS=dataset9 playwright test tests/apiRunner.spec.ts",
+    "api:dataset10": "TEST_DATASETS=dataset10 playwright test tests/apiRunner.spec.ts",
+    "api:test:quick": "TEST_MODE=true MAX_TESTS=5 playwright test tests/apiRunner.spec.ts",
     "report": "playwright show-report",
     "clean": "rm -rf reports/* test-results/* playwright-report/*"
   },

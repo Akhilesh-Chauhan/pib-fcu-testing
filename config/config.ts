@@ -10,6 +10,27 @@ export const CONFIG = {
   // Filter datasets by name (comma-separated). Example: TEST_DATASETS=dataset1,dataset4
   // Leave empty or undefined to test all datasets
   TEST_DATASETS: process.env.TEST_DATASETS ? process.env.TEST_DATASETS.split(',').map(d => d.trim()) : undefined,
+  
+  // Testing Mode - Run subset of tests
+  // Example: TEST_MODE=true MAX_TESTS=5 npm run test:dataset10
+  TEST_MODE: {
+    enabled: process.env.TEST_MODE === 'true',
+    maxTests: parseInt(process.env.MAX_TESTS || '5'),
+  },
+  
+  // Report Generation - Only generate individual reports for failed tests
+  REPORT_MODE: {
+    onlyFailures: process.env.REPORT_ONLY_FAILURES === 'true' || true, // Default: true (save space)
+    generateScreenshots: process.env.GENERATE_SCREENSHOTS === 'true' || false, // Default: false for API mode
+  },
+  
+  // Rate Limiting - Delays between API requests
+  RATE_LIMIT: {
+    minDelaySeconds: parseFloat(process.env.RATE_LIMIT_MIN || '2'), // 2 seconds min
+    maxDelaySeconds: parseFloat(process.env.RATE_LIMIT_MAX || '5'), // 5 seconds max
+    errorDelayMultiplier: 2, // Double delay after errors
+  },
+  
   TIMEOUT: {
     API_RESPONSE: 60000,
     PAGE_LOAD: 30000,
